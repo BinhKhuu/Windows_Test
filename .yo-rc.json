@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "git-example",
+    "libraryId": "adc86f0b-462f-41bc-9bdf-0089e304f8ce",
+    "packageManager": "npm",
+    "componentType": "extension",
+    "extensionType": "FieldCustomizer"
+  }
+}
